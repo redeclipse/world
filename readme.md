@@ -7,3 +7,7 @@ the public.
 Access to this repository is restricted, if a team member requires access please
 notify @qreeves
 
+### Contributing
+
+It is best if contributors create their own folder in this repository and organise
+their work there. How you do so from there is up to you.
