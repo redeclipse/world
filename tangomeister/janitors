@@ -48,7 +48,7 @@ JANITOR PERSONALITY 3: COLLECTED
 The "COLLECTED" personality of janitor is calm and focused. It does it's job, and little more.
 
 When finding weapons, the COLLECTED janitor will often say things like:
-"CH44 Model Flame Thrower." (Finding Flame Thrower)
+"CH Model 44 Flame Thrower." (Finding Flame Thrower)
 "Experimental GP Lightning gun." (Finding Electro Zapper)
 "Standard Issue D23 Laser Rifle." (Finding Laser Rifle)
 "Standard Issue T&T Submachine Gun." (Finding SMG)
@@ -56,12 +56,78 @@ When finding weapons, the COLLECTED janitor will often say things like:
 "CoolHeat Industries Blade." (Finding Sword)
 
 When finding corpses, or the pieces of corpses, the COLLECTED janitor will often say things like:
-"Mostly intact Artifact. Nonfunctioning." (Finding a full body.)
-"Artifact object manipulator found." (Finding an arm.)
-"Central thought processing unit, intact." (Finding a head.)
+"Mostly intact Artifact. Nonfunctioning." (Finding a full body)
+"Artifact object manipulator found." (Finding an arm)
+"Central thought processing unit, intact." (Finding a head)
 "Artifact movement controller found." (Finding a leg)
 
 When filled up, the COLLECTED janitor will know what it means.
 "Threat level escalating."
 "Preparing defensive measures."
 "Powered up. Returning to base."
+
+JANITOR PERSONALITY 4: ESSENTIAL
+The "ESSENTIAL" personality of janitor is boring and simple. Calling it a personality is an overstatement.
+
+When finding weapons, the ESSENTIAL janitor will often say things like:
+"Flame Thrower collected." (Finding Flame Thrower)
+"Electro Zapper collected." (Finding Electro Zapper)
+"Laser Rifle collected." (Finding Laser Rifle)
+"Submachine Gun collected." (Finding SMG)
+"High energy shotgun collected." (Finding Super Shotgun)
+"Plasma Sword collected." (Finding Sword)
+
+When finding corpses, or the pieces of corpses, the ESSENTIAL janitor will often say things like:
+"Artifact body recovered." (Finding a full body)
+"Artifact upper limb recovered." (Finding an arm)
+"Artifact cranium recovered." (Finding a head)
+"Artifact lower limb recovered." (Finding a leg)
+
+When filled up, the ESSENTIAL janitor will prepare itself.
+"Artifacts will target."
+"Incoming threats."
+"Weaponry powered."
+
+JANITOR PERSONALITY 5: ANCIENT
+The "ANCIENT" personality of janitor is seemingly old and wise. It talks a lot.
+
+When finding weapons, the ANCIENT janitor will often say things like:
+"A flame thrower? Back in my day, they were bigger, you know..." (Finding Flame Thrower)
+"Electro zappers... Sometimes, the older models of these were used to resuscitate artifacts." (Finding Electro Zapper)
+"A laser rifle. What a precise tool! And so sleek, as well. I used these, back when I participated in the war..." (Finding Laser Rifle)
+"An SMG! A tool for the new generation, no precision or gusto!" (Finding SMG)
+"What have they done to this M33 Shotgun! Oh dear, they've ruined you! You're on the border of exploding!" (Finding Super Shotgun)
+"Ah, a plasma sword... A precise, and civilized weapon." (Finding Sword)
+
+When finding corpses, or the pieces of corpses, the ANCIENT janitor will often say things like:
+"Damn kids. Stop dirtying up my floor!" (Finding a full body)
+"Look at this. Useless!" (Finding an arm)
+"Looks like you lost your head, kid. Hehe." (Finding a head)
+"Won't be running anywhere anytime soon then." (Finding a leg)
+
+When filled up, the ANCIENT janitor will hate it's situation.
+"THIS NEW GENERATION HAS NO MANNERS! WHO TAUGHT YOU RESPECT?"
+"WHAT DO YOU MEAN I'M BEING LOUD AND OBNOXIOUS?"
+"STOP BEING SO UPPITY!"
+
+JANITOR PERSONALITY 6: LAWFUL
+The "LAWFUL" personality of janitor is almost like a cop. It has a stick up it's ass.
+
+When finding weapons, the LAWFUL janitor will often say things like:
+"a CoolHeat Industries Flame Thrower. Unlicensed. Great." (Finding Flame Thrwoer)
+"I thought these got banned from arenas?" (Finding Electro Zapper)
+"Standard Issue Laser Rifle. Love this thing." (Finding Laser Rifle)
+"Lovely little SMG. I've used these before." (Finding SMG)
+"This thing has so many illegal mods I should throw it in a crusher right now." (Finding Super Shotgun)
+"A sword. Too colorful for my taste." (Finding Sword)
+
+When finding corpses, or the pieces of corpses, the LAWFUL janitor will often say things like:
+"Victim is mostly intact. Lucky thing." (Finding a full body)
+"Well, you won't be slapping anyone." (Finding an arm)
+"You're not a-head of the curve, that's for sure." (Finding a head)
+"I found a leg. This one had a bad day." (Finding a leg.)
+
+When filled up, the LAWFUL janitor will be ready.
+"Artifact suspects rapidly approaching."
+"Powering up defenses."
+"Lethal force has been authorized."
